@@ -8,3 +8,4 @@ AthRNA2016_Sato_et_al_Rscript.R: R source code for statistical analyses and figu
 160101-1_GeneDescription_Ath: R object of gene description file  
 180104_Sample-IndexPrimer_SatoAth.csv: Sample index and annotation file  
 180907_GO/ulg.TAIR_180907: R object connecting AGI codes and GO terms (made from TAIR10 ATH_GO_GOSLIM.txt accessed on 7 Sept. 2018)  
+Chan2010GWAS_averageGLS.csv: glucosinolate data compiled from a supplemental table of Chan et al. (2010) Genetics
