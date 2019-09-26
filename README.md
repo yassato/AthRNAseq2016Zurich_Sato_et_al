@@ -1,5 +1,5 @@
 # AthRNAseq2016Zurich_Sato_et_al
-R source code and input data of Sato et al. (2019) bioRxiv https://doi.org/10.1101/563486  
+R source code and input data of Sato et al. (2019) Frontiers in Genetics, https://doi.org/10.3389/fgene.2019.00787  
   
 File Description  
 AthRNA2016_Sato_et_al_Rscript.R: R source code for statistical analyses and figures  
